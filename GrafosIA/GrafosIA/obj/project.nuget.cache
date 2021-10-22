@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pOJHUjo71aTOKiMABbqYc0D56L4RbfGUdXFbXDxZNfXAuYjwhQwPkSMJSYf8ZW9QRDmuidVOLHA1+VB/9T7cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\GrafosIA\\GrafosIA\\GrafosIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

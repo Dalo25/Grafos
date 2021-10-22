@@ -1,0 +1,13 @@
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.exe
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.deps.json
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.runtimeconfig.json
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.dll
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\bin\Debug\netcoreapp3.1\GrafosIA.pdb
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.AssemblyInfo.cs
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.dll
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.pdb
+C:\Users\kevin\source\repos\GrafosIA\GrafosIA\obj\Debug\netcoreapp3.1\GrafosIA.genruntimeconfig.cache
